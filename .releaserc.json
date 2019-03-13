@@ -1,0 +1,17 @@
+{
+  "branch": "master",
+  "tagFormat": "${version}",
+  "dryRun": false,
+  "ci": false,
+  "plugins": [
+    ["@semantic-release/commit-analyzer", {
+      "preset": "angular"
+    }],
+    ["@semantic-release/release-notes-generator", {
+      "preset": "angular",
+      "writerOpts": {
+        "commitsSort": ["subject", "scope"]
+      }
+    }]
+  ]
+}
