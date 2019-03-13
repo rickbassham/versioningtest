@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/rickbassham/versioningtest/compare/2.0.0...2.1.0) (2019-03-13)
+
+
+### Features
+
+* Add Makefile ([0c50017](https://github.com/rickbassham/versioningtest/commit/0c50017))
+
 # [2.0.0](https://github.com/rickbassham/versioningtest/compare/1.1.0...2.0.0) (2019-03-13)
 
 
