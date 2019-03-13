@@ -12,6 +12,9 @@
       "writerOpts": {
         "commitsSort": ["subject", "scope"]
       }
+    }],
+    ["@semantic-release/changelog", {
+      "changelogFile": "CHANGELOG.md"
     }]
   ]
 }
