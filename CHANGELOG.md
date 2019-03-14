@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/rickbassham/versioningtest/compare/2.1.0...2.2.0) (2019-03-14)
+
+
+### Features
+
+* **test.sh:** Added a new bash script. ([894c84c](https://github.com/rickbassham/versioningtest/commit/894c84c))
+
 # [2.1.0](https://github.com/rickbassham/versioningtest/compare/2.0.0...2.1.0) (2019-03-13)
 
 
